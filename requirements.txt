@@ -1,0 +1,11 @@
+#ride booking
+langchain-openai
+langgraph
+langchain-community
+python-dotenv
+mysql-connector-python
+pytz
+streamlit
+openai
+langchain-core
+pydantic
